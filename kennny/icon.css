@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.pos4{
+		position:absolute;
+	    margin: 110px 110px;
+		}
+.pos5{
+		position:absolute;
+	    margin: 340px 400px;
+		}
+.pos6{
+		position:absolute;
+	    margin: 470px 190px;
+		}
+.pos7{
+		position:absolute;
+	    margin: 140px 1000px;
+		}
+.pos8{
+		position:absolute;
+	    margin: 600px 900px;
+		}
